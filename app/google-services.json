@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976485420682",
+    "project_id": "fir-bfcf8",
+    "storage_bucket": "fir-bfcf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976485420682:android:518f3202a947ec2183e773",
+        "android_client_info": {
+          "package_name": "com.idealogics.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976485420682-fbqbg5ba3c113093vnjq2v6kvp3sfvar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1Vc2dY8A7HvnGYJ4bLFD_K5NdcRiIi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976485420682-fbqbg5ba3c113093vnjq2v6kvp3sfvar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

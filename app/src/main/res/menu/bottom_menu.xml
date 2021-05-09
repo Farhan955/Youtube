@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item0"
+        android:title="A"
+        android:icon="@drawable/ic_youtube_full_black"/>
+
+    <item
+        android:id="@+id/item1"
+        android:title="B"
+        android:icon="@drawable/ic_like_black"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="C"
+        android:icon="@drawable/ic_youtube_black"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="D"
+        android:icon="@drawable/ic_notifications_black"/>
+    <item
+        android:id="@+id/item4"
+        android:icon="@drawable/ic_dollar_black"
+        android:title="D" />
+
+</menu>
